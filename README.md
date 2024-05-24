@@ -1,5 +1,5 @@
 # ToDoList
-### This is a simple To-Do application built with HTML, CSS, and JavaScript. It uses Font Awesome for icons and jQuery for event handling. Users can add tasks, mark them as completed, and delete them. The tasks are organized into two sections: "Not Completed" and "Completed".
+
 ## Features
 ### Add Tasks: 
   -  Users can add new tasks using the input field.
